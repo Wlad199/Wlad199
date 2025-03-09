@@ -8,5 +8,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sdfb&icon=0&color=0)](https://visitcount.itsvg.in)
+https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
