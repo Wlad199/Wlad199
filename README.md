@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Wlad and I'm a beginner front-end developer, from Yaroslavl</p>
+<p align="left">My name is Wlad and I'm a beginner front-end developer from Yaroslavl</p>
 
 ###
 
