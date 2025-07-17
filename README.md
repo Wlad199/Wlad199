@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Wlad and I'm a beginner front-end developer, from Yaroslavl</p>
 
 ###
 
@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ I have been programming since 2022
+<br>
+🎯 2022-2023: Html, Css, Sass(Scss), JavaScript(JS), Git
+<br>
+🎯 2024: TypeScript(TS), React, Redux-Toolkit
+<br>
+🎯 2025: Vue, Vuex, Pinia, Vue-router
+<br>
+📚 I'm currently learning Vue, Vuex, TypeScript
+</p>
 
 ###
 
@@ -38,6 +48,8 @@
 
 ###
 
+<h2 align="left">My Website</h2>
+
 [main-page](https://wlad199.github.io/main-page/dist/index.html)
 
 ## Vue
@@ -45,7 +57,7 @@
 - [multi-page-form](https://wlad199.github.io/multi-page-form/)
 - [vuelidate-form](https://wlad199.github.io/vuelidate-form/)
 - [validate-simple-vue](https://wlad199.github.io/validate-simple-vue/)
-- [CocktailDB-vue](https://wlad199.github.io/CocktailDB-vue/)
+- [cocktailDB-vue](https://wlad199.github.io/CocktailDB-vue/)
 - [todo-vuex-async](https://wlad199.github.io/todo-vuex-async/)
 - [dessert-shop-vue](https://wlad199.github.io/dessert-shop-vue/)
 - [weather-app](https://wlad199.github.io/weather-app/)
@@ -60,31 +72,31 @@
 - [shop-dessert-cart](https://wlad199.github.io/shop-dessert-cart/build/index.html)
 - [todo-persister-redux-ts](https://wlad199.github.io/todo-persister-redux-ts/build/index.html)
 - [posts-placeholder-redux](https://wlad199.github.io/posts-placeholder-redux/build/index.html)
-- [Todo-Placeholder-Redux](https://wlad199.github.io/Todo-Placeholder-Redux/build/index.html)
-- [CocktailDB](https://wlad199.github.io/CocktailDB/)
+- [todo-placeholder-redux](https://wlad199.github.io/Todo-Placeholder-Redux/build/index.html)
+- [cocktailDB](https://wlad199.github.io/CocktailDB/)
 - [user-invite](https://wlad199.github.io/user-invite/)
 - [tic-tac-toe](https://wlad199.github.io/tic-tac-toe/)
-- [Efficiency-React](https://wlad199.github.io/Efficiency-React/)
+- [efficiency-react](https://wlad199.github.io/Efficiency-React/)
 
 
-## Html
+## Html + Css
 
-- [Elegant_07.01.24](https://wlad199.github.io/Elegant_07.01.24/)
-- [GidGroup_15.11.23](https://wlad199.github.io/GidGroup_15.11.23/)
-- [Kamchatka_01.10.23](https://wlad199.github.io/Kamchatka_01.10.23/)
-- [Project__30-BIMPro](https://wlad199.github.io/BimPro_16.08.2023/)
-- [Lover-Flower_07.07.23](https://wlad199.github.io/Lover-Flower_07.07.23/)
-- [Desire_07.06.23](https://wlad199.github.io/Desire_07.06.23/)
-- [YourMeal_17.06.2023](https://wlad199.github.io/YourMeal_17.06.2023/)
-- [Fresh-Bakery_18.05.23](https://wlad199.github.io/Fresh-Bakery_18.05.23/)
-- [Project__25-HappyPet](https://wlad199.github.io/Happy-Pet_10.05.23/)
-- [Abdullah-Noman_09.04.23](https://wlad199.github.io/Abdullah-Noman_09.04.23/)
-- [BINO_20.04.23](https://wlad199.github.io/BINO_20.04.23/)
-- [SpecTrans_27.04.23](https://wlad199.github.io/SpecTrans_27.04.23/)
-- [Project__20-Bicycle](https://wlad199.github.io/Project__20-Bikes_07.13/)
-- [Project__13-GoCorona_01.17](https://wlad199.github.io/Project__13-GoCorona_01.17/home.html)
-- [Growfy_18.03.23](https://wlad199.github.io/Growfy_18.03.23/)
-- [Project__16-FarmVest](https://wlad199.github.io/FarmVest_14.03.23/)
-- [Project__16_Dogs_Servise](https://wlad199.github.io/Project__16-Dog-Service_4.16/)
-- [Project__15-Relvise_3.16](https://wlad199.github.io/Project__15-Relvise_3.16/)
-- [Project__14-Business](https://wlad199.github.io/Project__14-Business_2.19/)
+- [elegant](https://wlad199.github.io/Elegant_07.01.24/)
+- [gidGroup](https://wlad199.github.io/GidGroup_15.11.23/)
+- [kamchatka](https://wlad199.github.io/Kamchatka_01.10.23/)
+- [bimPro](https://wlad199.github.io/BimPro_16.08.2023/)
+- [lover-flower](https://wlad199.github.io/Lover-Flower_07.07.23/)
+- [desire](https://wlad199.github.io/Desire_07.06.23/)
+- [your-meal](https://wlad199.github.io/YourMeal_17.06.2023/)
+- [fresh-bakery](https://wlad199.github.io/Fresh-Bakery_18.05.23/)
+- [happy-pet](https://wlad199.github.io/Happy-Pet_10.05.23/)
+- [Abdullah-Noman](https://wlad199.github.io/Abdullah-Noman_09.04.23/)
+- [bino](https://wlad199.github.io/BINO_20.04.23/)
+- [spec-trans](https://wlad199.github.io/SpecTrans_27.04.23/)
+- [bicycle](https://wlad199.github.io/Project__20-Bikes_07.13/)
+- [go-corona](https://wlad199.github.io/Project__13-GoCorona_01.17/home.html)
+- [growfy](https://wlad199.github.io/Growfy_18.03.23/)
+- [farm-vest](https://wlad199.github.io/FarmVest_14.03.23/)
+- [dogs-servise](https://wlad199.github.io/Project__16-Dog-Service_4.16/)
+- [relvise](https://wlad199.github.io/Project__15-Relvise_3.16/)
+- [business](https://wlad199.github.io/Project__14-Business_2.19/)
