@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ I have been programming since 2022
+✨ I've been programming since 2022
 <br>
 🎯 2022-2023: Html, Css, Sass(Scss), JavaScript(JS), Git
 <br>
