@@ -88,6 +88,7 @@
 - [bimPro](https://wlad199.github.io/BimPro_16.08.2023/)
 - [lover-flower](https://wlad199.github.io/Lover-Flower_07.07.23/)
 - [desire](https://wlad199.github.io/Desire_07.06.23/)
+- [triumph](wlad199.github.io/Triumph-30.01.2026/)
 - [your-meal](https://wlad199.github.io/YourMeal_17.06.2023/)
 - [fresh-bakery](https://wlad199.github.io/Fresh-Bakery_18.05.23/)
 - [happy-pet](https://wlad199.github.io/Happy-Pet_10.05.23/)
