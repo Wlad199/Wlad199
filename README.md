@@ -79,7 +79,7 @@
 - [efficiency-react](https://wlad199.github.io/Efficiency-React/)
 
 
-## Html + Css
+## Html + Css + JS
 
 - [abc auto](https://wlad199.github.io/Abc-Auto_05.09.25/)
 - [elegant](https://wlad199.github.io/Elegant_07.01.24/)
