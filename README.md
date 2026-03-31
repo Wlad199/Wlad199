@@ -19,7 +19,7 @@
 <br>
 🎯 2025: Vue, Vuex, Pinia, Vue-router
 <br>
-📚 I'm currently learning Vue, Vuex, TypeScript
+📚 I'm currently learning Nuxt, Vuex, TypeScript
 </p>
 
 ###
