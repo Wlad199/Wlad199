@@ -54,6 +54,7 @@
 
 ## Vue
 
+- [post-blog-ssr](post-blog-ssr-199.vercel.app/posts
 - [multi-page-form](https://wlad199.github.io/multi-page-form/)
 - [vuelidate-form](https://wlad199.github.io/vuelidate-form/)
 - [validate-simple-vue](https://wlad199.github.io/validate-simple-vue/)
