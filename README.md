@@ -50,7 +50,7 @@
 
 <h2 align="left">My Website</h2>
 
-[main-page](https://post-blog-ssr-199.vercel.app/posts)
+[main-page](https://wlad199.github.io/main-page/dist/index.html)
 
 ## Vue
 
