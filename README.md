@@ -54,6 +54,7 @@
 
 ## Vue
 
+- [watch-shop](watch-shop-199.vercel.app/)
 - [post-blog-ssr](https://post-blog-ssr-199.vercel.app)
 - [multi-page-form](https://wlad199.github.io/multi-page-form/)
 - [vuelidate-form](https://wlad199.github.io/vuelidate-form/)
